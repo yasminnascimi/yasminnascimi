@@ -20,7 +20,7 @@
   <img align="center" alt="yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="yas-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/916686530381246485/916687954481655868/929951124595810384">
+  <img align="right" alt="yas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/916687954481655868/929953919931658350/download.gif">
 </div>
   
   ###
@@ -31,7 +31,7 @@
   <a href = "mailto:yasminnascimi2558@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-f-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/yasminnascimi/yasminnascimi/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/yasminnascimi/yasminnascimi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
