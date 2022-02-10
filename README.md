@@ -5,7 +5,7 @@
 - 👯 Gosto de desafios e estou aberta para ingressar em equipes de desenvolvimento;
 - 🤔 Sou Desenvolvedora Júnior então qualquer ajuda é bem vinda;
 - 👩🏻‍💻 Em busca de um oportunidade como Desenvolvedora Júnior;
-- 💪🏻 Woman Tech.
+- 💪🏻 Woman can code.
 
 <div> 
 	<a href= "https://github.com/yasminnascimi " >
