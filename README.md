@@ -20,7 +20,7 @@
   <img align="center" alt="yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="yas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/916687954481655868/929953919931658350/download.gif">
+ 
 </div>
   
   ###
