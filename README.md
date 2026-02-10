@@ -3,8 +3,7 @@
 - 🔭 Sou uma pessoa muito curiosa, sempre disposta a aprender;
 - 🌱 Realizei meus primeiros projetos como bolsista no programa Trilhas de Programação em 2021/2022;
 - 👯 Gosto de desafios e estou aberta para ingressar em equipes de desenvolvimento;
-- 🤔 Sou Desenvolvedora Júnior então qualquer ajuda é bem vinda;
-- 👩🏻‍💻 Em busca de um oportunidade como Desenvolvedora Júnior;
+- 👩🏻‍💻 Sou Tech Recruiter em busca de Talentos da área Tech;
 - 💪🏻 Woman can code.
 
 <div> 
